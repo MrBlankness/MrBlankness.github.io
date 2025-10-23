@@ -94,18 +94,18 @@ KDD 2025
 - ```2017 & 2018``` Anlifang Scholarship @ China Agricultural University
 
 # 📖 Educations
-- ```2023.09 - 2027.06 (now)```, Ph.D student, School of Computer Science, Peking University, Beijing
+- ```2023.09 - 2027.06 (now)``` Ph.D student, School of Computer Science, Peking University, Beijing
   - Major in *Computer Software and Theory*
   - Advisors: [Prof. Yasha Wang (王亚沙)](https://faculty.pku.edu.cn/wangyasha/zh_CN/yjfx/10532/list/index.htm)
-- ```2020.09 - 2023.06```, Master, School of Computer Science & Technology, Beijing Institute of Technology, Beijing
+- ```2020.09 - 2023.06``` Master, School of Computer Science & Technology, Beijing Institute of Technology, Beijing
   - Major in *Computer Science and Technology*
   - Advisors: [Prof. Xuesong Li (李雪松)](https://cs.bit.edu.cn/szdw/jsml/bssds/cd86c91f836d4eb8b2ca82c8e3ca5f68.htm)
-- ```2016.09 - 2020.06```, Undergraduate, College of Information and Electrical Engineering, China Agricultural University, Beijing
+- ```2016.09 - 2020.06``` Undergraduate, College of Information and Electrical Engineering, China Agricultural University, Beijing
   - Major in *Computer Science and Technology*
   - Advisors: [Prof. Zhenbo Li (李振波)](https://faculty.cau.edu.cn/lzb/list.htm)
   - Minor in *Mathematics and Applied Mathematics*
 
 # 💻 Internships
-- ```2021.11 - 2022.12```, [Baidu Inc.](https://research.baidu.com/), Beijing.
+- ```2021.11 - 2022.12``` [Baidu Inc.](https://research.baidu.com/), Beijing.
   - Topic: *Medical Image Analysis*
   - Worked with [Dr. Haoyi Xiong (熊昊一)](https://sites.google.com/site/haoyixiongshomepage/)
