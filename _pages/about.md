@@ -26,11 +26,11 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of L
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025.
-- *2025.08*: &nbsp;🎉🎉 One paper is accepted by Information Fusion.
-- *2025.08*: &nbsp; Two papers are accepted by EMNLP 2025.
-- *2025.01*: &nbsp; One paper is accepted by ICLR 2025.
-- *2024.11*: &nbsp; One paper is accepted by KDD 2025.
+- ```2025.09```: &nbsp;🎉🎉 Our study *Magical* is accepted by NeurIPS 2025.
+- ```2025.08```: &nbsp;🎉🎉 Our study *CUPre* is accepted by Information Fusion.
+- ```2025.08```: &nbsp;🎉🎉 Our study *3DS* and *PlanLearn* are accepted by EMNLP 2025.
+- ```2025.01```: &nbsp; Our study *TPO* is accepted by ICLR 2025.
+- ```2024.11```: &nbsp; Our study *PAI* is accepted by KDD 2025.
 
 
 # 📝 Publications 
@@ -79,19 +79,19 @@ KDD 2025
 </div>
 
 # 🍳 Program Committee & Reviewer Service
-- **Program Committee Member** of ICLR'25-26, NeurIPS'25, ARR'25, AAAI'26
+- **Program Committee Member** of ICLR25-26, NeurIPS25, ARR25, AAAI26
 - **Reviewer** of IEEE TKDE, IEEE TDSC, ACM TOIS, INFFUS
 
 # 🏆 Honors and Awards
-- ```2025``` National Scholarship at Peking University
-- ```2025``` Merit Student Award at Peking University
-- ```2021 & 2022``` First-Class Scholarship for Outstanding Students at Beijing Institute of Technology
+- ```2025``` National Scholarship @ Peking University
+- ```2025``` Merit Student Award @ Peking University
+- ```2021 & 2022``` First-Class Scholarship for Outstanding Students @ Beijing Institute of Technology
 - ```2020``` Champion of the MICCAI-CADA2020 - Cerebral Aneurysm Detection Challenge
 - ```2020``` Champion of the MICCAI-CADA2020 - Cerebral Aneurysm Segmentation Challenge
 - ```2018``` National Second Prize of National Student Mathematical Modeling Competition
 - ```2018``` Second Prize of "Minsheng Cup" Mathematical Modeling Competition
-- ```2017 & 2018 & 2019``` First-Class Scholarship for Outstanding Students at China Agricultural University
-- ```2017 & 2018``` Anlifang Scholarship at China Agricultural University
+- ```2017 & 2018 & 2019``` First-Class Scholarship for Outstanding Students @ China Agricultural University
+- ```2017 & 2018``` Anlifang Scholarship @ China Agricultural University
 
 # 📖 Educations
 - ```2023.09 - 2027.06 (now)```, Ph.D student, School of Computer Science, Peking University, Beijing
