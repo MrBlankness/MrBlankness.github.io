@@ -82,7 +82,7 @@ KDD 2025
 - **Program Committee Member** of ICLR'25-26, NeurIPS'25, ARR'25, AAAI'26
 - **Reviewer** of IEEE TKDE, IEEE TDSC, ACM TOIS, INFFUS
 
-# 🏆 Honors & Awards
+# 🏆 Honors and Awards
 - ```2025``` National Scholarship at Peking University
 - ```2025``` Merit Student Award at Peking University
 - ```2021 & 2022``` First-Class Scholarship for Outstanding Students at Beijing Institute of Technology
