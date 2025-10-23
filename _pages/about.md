@@ -82,24 +82,27 @@ KDD 2025
 - **Program Committee Member** of ICLR'25-26, NeurIPS'25, ARR'25, AAAI'26
 - **Reviewer** of IEEE TKDE, IEEE TDSC, ACM TOIS, INFFUS
 
-# 🏆 Honors and Awards
-- *2025*, National Scholarship at Peking University
-- *2025*, Merit Student Award at Peking University
-- *2021 & 2022*, First-Class Scholarship for Outstanding Students at Beijing Institute of Technology
-- *2020*, Champion of the MICCAI-CADA2020 - Cerebral Aneurysm Detection Challenge
-- *2020*, Champion of the MICCAI-CADA2020 - Cerebral Aneurysm Segmentation Challenge
-- *2018*, National Second Prize of National Student Mathematical Modeling Competition
-- *2018*, Second Prize of "Minsheng Cup" Mathematical Modeling Competition
-- *2017 & 2018 & 2019*, First-Class Scholarship for Outstanding Students at China Agricultural University
-- *2017 & 2018*, Anlifang Scholarship at China Agricultural University
+# 🏆 Honors & Awards
+- ```2025```, National Scholarship at Peking University
+- ```2025```, Merit Student Award at Peking University
+- ```2021 & 2022```, First-Class Scholarship for Outstanding Students at Beijing Institute of Technology
+- ```2020```, Champion of the MICCAI-CADA2020 - Cerebral Aneurysm Detection Challenge
+- ```2020```, Champion of the MICCAI-CADA2020 - Cerebral Aneurysm Segmentation Challenge
+- ```2018```, National Second Prize of National Student Mathematical Modeling Competition
+- ```2018```, Second Prize of "Minsheng Cup" Mathematical Modeling Competition
+- ```2017 & 2018 & 2019```, First-Class Scholarship for Outstanding Students at China Agricultural University
+- ```2017 & 2018```, Anlifang Scholarship at China Agricultural University
 
 # 📖 Educations
 - *2019.06 - 2022.04*, Ph.D student, School of Computer Science, Peking University, Beijing
-  - Major in *Computer Software and Theory*, Advisors: [Prof. Yasha Wang (王亚沙)](https://faculty.pku.edu.cn/wangyasha/zh_CN/yjfx/10532/list/index.htm)
-- *2015.09 - 2019.06*, Master, School of Computer Science \& Technology, Beijing Institute of Technology, Beijing
-  - Major in *Computer Science and Technology*, Advisors: [Prof. Xuesong Li (李雪松)](https://cs.bit.edu.cn/szdw/jsml/bssds/cd86c91f836d4eb8b2ca82c8e3ca5f68.htm)
+  - Major in *Computer Software and Theory*
+  - Advisors: [Prof. Yasha Wang (王亚沙)](https://faculty.pku.edu.cn/wangyasha/zh_CN/yjfx/10532/list/index.htm)
+- *2015.09 - 2019.06*, Master, School of Computer Science & Technology, Beijing Institute of Technology, Beijing
+  - Major in *Computer Science and Technology*
+  - Advisors: [Prof. Xuesong Li (李雪松)](https://cs.bit.edu.cn/szdw/jsml/bssds/cd86c91f836d4eb8b2ca82c8e3ca5f68.htm)
 - *2016.09 - 2020.06*, Undergraduate, College of Information and Electrical Engineering, China Agricultural University, Beijing
-  - Major in *Computer Science and Technology*, Advisors: [Prof. Zhenbo Li (李振波)](https://faculty.cau.edu.cn/lzb/list.htm)
+  - Major in *Computer Science and Technology*
+  - Advisors: [Prof. Zhenbo Li (李振波)](https://faculty.cau.edu.cn/lzb/list.htm)
   - Minor in *Mathematics and Applied Mathematics*
 
 # 💻 Internships
