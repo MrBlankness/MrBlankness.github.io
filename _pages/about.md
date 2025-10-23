@@ -35,7 +35,7 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of L
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/magical_neurips25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/paper_figures/magical_neurips25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Magical: Medical Lay Language Generation via Semantic Invariance and Layperson-tailored Adaptation](https://arxiv.org/abs/2508.08730)
@@ -49,7 +49,7 @@ NeurIPS 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/tpo_iclr25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/paper_figures/tpo_iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TPO: Aligning Large Language Models with Multi-branch \& Multi-step Preference Trees](https://openreview.net/forum?id=O0sQ9CPzai)
@@ -64,7 +64,7 @@ ICLR 2025
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/pai_kdd25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/paper_figures/pai_kdd25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learnable Prompt as Pseudo-Imputation: Rethinking the Necessity of Traditional EHR Data Imputation in Downstream Clinical Prediction](https://dl.acm.org/doi/abs/10.1145/3690624.3709166)
