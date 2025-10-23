@@ -17,42 +17,87 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi! I’m Weibin Liao (廖伟斌), a Ph.D. candidate at Peking University, advised by Prof. [Yasha Wang (王亚沙)](https://faculty.pku.edu.cn/wangyasha/zh_CN/yjfx/10532/list/index.htm).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I graduated from [College of Information and Electrical Engineering](https://ciee.cau.edu.cn/), China Agricultural University (中国农业大学信息与电气工程学院) with a bachelor's degree, advised by Prof. [Zhenbo Li (李振波)](https://faculty.cau.edu.cn/lzb/list.htm) and from the [School of Computer Science \& Technology](https://cs.bit.edu.cn/), Beijing Institute of Technology (北京理工大学计算机学院) with a master's degree, advised by Prof. [Xuesong Li (李雪松)](https://cs.bit.edu.cn/szdw/jsml/bssds/cd86c91f836d4eb8b2ca82c8e3ca5f68.htm). 
+I also collaborate with Prof. [Liantao Ma (马连韬)](http://scholar.pku.edu.cn/malt) form Peking University, Dr. [Yinghao Zhu (朱英豪)](https://yhzhu99.github.io/) from The University of Hong Kong, Dr. [Junyi Gao (高峻逸)](https://aboutme.vixerunt.org/) from The University of Edinburgh, Prof. [Yifan Zhu (朱一凡)](https://zhuyf8899.github.io/) from Beijing University of Posts and Telecommunications, and Dr. [Haoyi Xiong (熊昊一)](https://sites.google.com/site/haoyixiongshomepage/) from Microsoft Research Asia closely.
+
+My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of Large Language Models. As the first author, I have published 10+ papers <a href='https://scholar.google.com/citations?user=4yUXvDsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences and journals such as NeurIPS, ICLR, KDD, Inffus, ACM TOIS, IEEE TAI. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025.
+- *2025.08*: &nbsp;🎉🎉 One paper is accepted by Information Fusion.
+- *2025.08*: &nbsp; Two papers are accepted by EMNLP 2025.
+- *2025.01*: &nbsp; One paper is accepted by ICLR 2025.
+- *2024.11*: &nbsp; One paper is accepted by KDD 2025.
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/magical_neurips25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Magical: Medical Lay Language Generation via Semantic Invariance and Layperson-tailored Adaptation](https://arxiv.org/abs/2508.08730)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+NeurIPS 2025
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Weibin Liao**, Tianlong Wang, Yinghao Zhu, Yasha Wang, Junyi Gao, Liantao Ma
+
+[**Code Repository Here**](https://github.com/tianlwang/Magical) 
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/tpo_iclr25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TPO: Aligning Large Language Models with Multi-branch \& Multi-step Preference Trees](https://openreview.net/forum?id=O0sQ9CPzai)
+
+ICLR 2025
+
+**Weibin Liao**, Xu Chu, Yasha Wang
+
+[**Code Repository Here**](https://github.com/MrBlankness/TPO) 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/pai_kdd25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learnable Prompt as Pseudo-Imputation: Rethinking the Necessity of Traditional EHR Data Imputation in Downstream Clinical Prediction](https://dl.acm.org/doi/abs/10.1145/3690624.3709166)
+
+KDD 2025
+
+**Weibin Liao**, Yinghao Zhu, Zhongji Zhang, Yuhang Wang, Zixiang Wang, Xu Chu, Yasha Wang, Liantao Ma
+
+[**Code Repository Here**](https://github.com/MrBlankness/PAI) 
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025*, National Scholarship at Peking University
+- *2025*, Merit Student Award at Peking University
+- *2021 & 2022*, First-Class Scholarship for Outstanding Students at Beijing Institute of Technology
+- *2020*, Champion of the MICCAI-CADA2020 - Cerebral Aneurysm Detection Challenge
+- *2020*, Champion of the MICCAI-CADA2020 - Cerebral Aneurysm Segmentation Challenge
+- *2018*, National Second Prize of National Student Mathematical Modeling Competition
+- *2018*, Second Prize of "Minsheng Cup" Mathematical Modeling Competition
+- *2017 & 2018 & 2019*, First-Class Scholarship for Outstanding Students at China Agricultural University
+- *2017 & 2018*, Anlifang Scholarship at China Agricultural University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2019.06 - 2022.04*, Ph.D student, School of Computer Science, Peking University, Beijing
+  - Major in *Computer Software and Theory*, Advisors: Prof. [Yasha Wang (王亚沙)](https://faculty.pku.edu.cn/wangyasha/zh_CN/yjfx/10532/list/index.htm)
+- *2015.09 - 2019.06*, Master, School of Computer Science \& Technology, Beijing Institute of Technology, Beijing
+  - Major in *Computer Science and Technology*, Advisors: [Xuesong Li (李雪松)](https://cs.bit.edu.cn/szdw/jsml/bssds/cd86c91f836d4eb8b2ca82c8e3ca5f68.htm)
+- *2016.09 - 2020.06*, Undergraduate, College of Information and Electrical Engineering, China Agricultural University, Beijing
+  - Major in *Computer Science and Technology*, Advisors: Prof. [Zhenbo Li (李振波)](https://faculty.cau.edu.cn/lzb/list.htm)
+  - Minor in *Mathematics and Applied Mathematics*
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.11 - 2022.12*, [Baidu Inc.](https://research.baidu.com/), Beijing.
+  - Topic: *Medical Image Analysis*, Worked with Dr. [Haoyi Xiong (熊昊一)](https://sites.google.com/site/haoyixiongshomepage/)
