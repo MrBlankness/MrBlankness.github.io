@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Weibin Liao   (廖伟斌)"
+  name             : "Weibin Liao"
   avatar           : "images/lwb.png"
   bio              : "Peking University"
   location         : "Beijing, China"
