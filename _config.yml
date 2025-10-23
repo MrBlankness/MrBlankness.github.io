@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Weibin Liao (廖伟斌)"
 description              : "Focusing on large generation model. "
-repository               : "Mrblankness/weibin-liao.github.io"
+repository               : "https://weibin-liao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
