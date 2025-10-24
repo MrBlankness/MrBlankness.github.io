@@ -26,11 +26,11 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of L
 
 
 # 🔥 News
-- ```2025.09```: &nbsp;🎉🎉 Our study *Magical* is accepted by NeurIPS 2025.
-- ```2025.08```: &nbsp;🎉🎉 Our study *CUPre* is accepted by Information Fusion.
-- ```2025.08```: &nbsp;🎉🎉 Our study *3DS* and *PlanLearn* are accepted by EMNLP 2025.
-- ```2025.01```: &nbsp; Our study *TPO* is accepted by ICLR 2025.
-- ```2024.11```: &nbsp; Our study *PAI* is accepted by KDD 2025.
+- ```2025.09```: &nbsp;🎉🎉 Our *Magical* is accepted by NeurIPS 2025.
+- ```2025.08```: &nbsp;🎉🎉 Our *CUPre* is accepted by Information Fusion.
+- ```2025.08```: &nbsp;🎉🎉 Our *3DS* and *PlanLearn* are accepted by EMNLP 2025.
+- ```2025.01```: &nbsp; Our *TPO* is accepted by ICLR 2025.
+- ```2024.11```: &nbsp; Our *PAI* is accepted by KDD 2025.
 
 
 # 📝 Publications 
@@ -77,6 +77,37 @@ KDD 2025
 
 </div>
 </div>
+
+### 2026
+- ``INFFUS`` [CUPre: Cross-domain Unsupervised Pre-training for Few-Shot Cell Segmentation](https://www.sciencedirect.com/science/article/pii/S1566253525007134), **Weibin Liao**, Xuhong Li, Qingzhong Wang, Yanwu Xu, Zhaozheng Yin, Haoyi Xiong.
+
+### 2025
+- ``Arxiv 2025`` [ADEPT: Continual Pretraining via Adaptive Expansion and Dynamic Decoupled Tuning](https://arxiv.org/abs/2510.10071), Jinyang Zhang*, Yue Fang*, Hongxin Ding*, **Weibin Liao\***, Muyang Ye, Xu Chu, Junfeng Zhao, Yasha Wang.
+- ``Arxiv 2025`` [Toward Better EHR Reasoning in LLMs: Reinforcement Learning with Expert Attention Guidance](https://arxiv.org/abs/2508.13579), Yue Fang, Yuxin Guo, Jiaran Gao, Hongxin Ding, Xinke Jiang, **Weibin Liao**, Yongxin Xu, Yinghao Zhu, Zhibang Yang, Liantao Ma.
+- ``Arxiv 2025`` [ProMed: Shapley Information Gain Guided Reinforcement Learning for Proactive Medical LLMs](https://arxiv.org/abs/2508.13514), Hongxin Ding, Baixiang Huang, Yue Fang, **Weibin Liao**, Xinke Jiang, Zheng Li, Junfeng Zhao, Yasha Wang.
+- ``Arxiv 2025`` [LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models](https://arxiv.org/abs/2504.02327), **Weibin Liao**, Xin Gao, Tianyu Jia, Rihong Qiu, Yifan Zhu, Yang Lin, Xinyu Ma, Junfeng Zhao, Yasha Wang.
+- ``Arxiv 2025`` [ClinicRealm: Re-evaluating Large Language Models with Conventional Machine Learning for Non-Generative Clinical Prediction Tasks](https://arxiv.org/abs/2407.18525), Yinghao Zhu*, Junyi Gao*, Zixiang Wang*, **Weibin Liao\***, Xiaochen Zheng, Lifang Liang, Miguel O Bernabeu, Yasha Wang, Lequan Yu, Chengwei Pan, Ewen M Harrison, Liantao Ma.
+- ``EMNLP 2025`` 3DS: Medical Domain Adaptation of LLMs via Decomposed Difficulty-based Data Selection, Hongxin Ding, Yue Fang, Runchuan Zhu, Xinke Jiang, Jinyang Zhang, Yongxin Xu, **Weibin Liao**, Xu Chu, Junfeng Zhao, Yasha Wang.
+- ``Electronics`` [HistoMoCo: Momentum Contrastive Learning Pre-Training on Unlabeled Histopathological Images for Oral Squamous Cell Carcinoma Detection](https://www.mdpi.com/2079-9292/14/7/1252), **Weibin Liao**, Yifan He, Bowen Jiang, Junfeng Zhao, Min Gao, Xiaoyun Zhang.
+
+### 2024
+- ``ACM TOIS`` [RevGNN: Negative Sampling Enhanced Contrastive Graph Learning for Academic Reviewer Recommendation](https://dl.acm.org/doi/abs/10.1145/3679200), **Weibin Liao**, Yifan Zhu, Yanyan Li, Qi Zhang, Zhonghong Ou, Xuesong Li.
+- ``IEEE TAI`` [MTPret: Improving X-ray Image Analytics with Multi-Task Pre-training](https://ieeexplore.ieee.org/abstract/document/10531186/), **Weibin Liao**, Qingzhong Wang, Xuhong Li, Yi Liu, Zeyu Chen, Siyu Huang, Dejing Dou, Yanwu Xu, Haoyi Xiong.
+- ``MRI`` [Accurate and Robust Segmentation of Cerebral Vasculature on Four-dimensional Arterial Spin Labeling Magnetic Resonance Angiography Using Machine-learning Approach](https://www.sciencedirect.com/science/article/pii/S0730725X24001358), **Weibin Liao**, Gen Shi, Yi Lv, Lixin Liu, Xihe Tang, Yongjian Jin, Zihan Ning, Xihai Zhao, Xuesong Li, Zhensen Chen.
+- ``Arxiv 2024`` [LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation](https://arxiv.org/abs/2403.05246), **Weibin Liao**, Yinghao Zhu, Xinyuan Wang, Chengwei Pan, Yasha Wang, Liantao Ma.
+
+### 2023
+- ``CMPB`` [Deep Learning based MRI Reconstruction with Transformer](https://www.sciencedirect.com/science/article/pii/S0169260723001189), Zhengliang Wu, **Weibin Liao**, Chao Yan, Mangsuo Zhao, Guowen Liu, Ning Ma, Xuesong Li.
+- ``ISBI 2023`` [MCRLe: Multi-Modal Contrastive Representation Learning For Stroke Onset Time Diagnosis](https://ieeexplore.ieee.org/abstract/document/10230570/), **Weibin Liao**, Peirong Jiang, Yi Lv, Yunjing Xue, Zhensen Chen, Xuesong Li.
+- ``ISBI 2023`` [A Deep-Learning-Based Framework for Automatic Segmentation and Labelling of Intracranial Artery](https://ieeexplore.ieee.org/abstract/document/10230456/), Yi Lv, **Weibin Liao**, Wenjin Liu, Zhensen Chen, Xuesong Li.
+- ``ISBI 2023`` [MFR-NET: Multi-scale Feature Representation Module for 3d Cerebrovascular Segmentation](https://ieeexplore.ieee.org/abstract/document/10230701/), Yi Lv, **Weibin Liao**, Zhensen Chen, Xuesong Li.
+
+### 2022
+- ``MICCAI 2022`` [MUSCLE: Multi-task Self-supervised Continual Learning to Pre-train Deep Models for X-ray Images of Multiple Body Parts](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_15), **Weibin Liao**, Haoyi Xiong, Qingzhong Wang, Yan Mo, Xuhong Li, Yi Liu, Zeyu Chen, Siyu Huang, Dejing Dou.
+
+### 2020
+- ``MICCAI-CADA 2020`` [Detect and Identify Aneurysms Based on Adjusted 3D Attention UNet](https://link.springer.com/chapter/10.1007/978-3-030-72862-5_4), Yizhuan Jia*, **Weibin Liao\***, Yi Lv, Ziyu Su, Jiaqi Dou, Zhongwei Sun, Xuesong Li.
+- ``MICCAI-CADA 2020`` [3D Attention U-net with Pretraining: A Solution to CADA-Aneurysm Segmentation Challenge](https://link.springer.com/chapter/10.1007/978-3-030-72862-5_6), Ziyu Su, Yizhuan Jia, **Weibin Liao**, Yi Lv, Jiaqi Dou, Zhongwei Sun, Xuesong Li.
 
 # 🍳 Program Committee & Reviewer Service
 - **Program Committee Member** of ICLR25-26, NeurIPS25, ARR25, AAAI26
