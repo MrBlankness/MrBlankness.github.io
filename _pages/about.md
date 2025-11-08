@@ -22,13 +22,14 @@ Hi! I am Weibin Liao (廖伟斌), a Ph.D. candidate at Peking University, advise
 I graduated from [College of Information and Electrical Engineering](https://ciee.cau.edu.cn/), China Agricultural University (中国农业大学信息与电气工程学院) with a bachelor degree, advised by [Prof. Zhenbo Li (李振波)](https://faculty.cau.edu.cn/lzb/list.htm) and from the [School of Computer Science & Technology](https://cs.bit.edu.cn/), Beijing Institute of Technology (北京理工大学计算机学院) with a master degree, advised by [Prof. Xuesong Li (李雪松)](https://cs.bit.edu.cn/szdw/jsml/bssds/cd86c91f836d4eb8b2ca82c8e3ca5f68.htm). 
 I also collaborate with [Prof. Liantao Ma (马连韬)](http://scholar.pku.edu.cn/malt) form Peking University, [Dr. Yinghao Zhu (朱英豪)](https://yhzhu99.github.io/) from The University of Hong Kong, [Dr. Junyi Gao (高峻逸)](https://aboutme.vixerunt.org/) from The University of Edinburgh, [Prof. Yifan Zhu (朱一凡)](https://zhuyf8899.github.io/) from Beijing University of Posts and Telecommunications, and [Dr. Haoyi Xiong (熊昊一)](https://sites.google.com/site/haoyixiongshomepage/) from Microsoft Research Asia closely.
 
-My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of Large Language Models. As the first author, I have published 10+ papers <a href='https://scholar.google.com/citations?user=4yUXvDsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FMrBlankness%2FMrBlankness.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences and journals such as NeurIPS, ICLR, KDD, INFFUS, ACM TOIS, IEEE TAI. 
+My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of Large Language Models. As the first author, I have published 10+ papers at the top international AI conferences and journals such as NeurIPS, ICLR, KDD, INFFUS, ACM TOIS, IEEE TAI. 
 
 
 # 🔥 News
+- ```2025.11```: &nbsp;🎉🎉 Our *EAG-RL* is accepted by AAAI 2026 **Oral**.
 - ```2025.09```: &nbsp;🎉🎉 Our *Magical* is accepted by NeurIPS 2025.
 - ```2025.08```: &nbsp;🎉🎉 Our *CUPre* is accepted by Information Fusion.
-- ```2025.08```: &nbsp;🎉🎉 Our *3DS* and *PlanLearn* are accepted by EMNLP 2025.
+- ```2025.08```: &nbsp; Our *3DS* and *PlanLearn* are accepted by EMNLP 2025.
 - ```2025.01```: &nbsp; Our *TPO* is accepted by ICLR 2025.
 - ```2024.11```: &nbsp; Our *PAI* is accepted by KDD 2025.
 
@@ -83,10 +84,10 @@ KDD 2025
 
 ### 2025
 - ``Arxiv 2025`` [ADEPT: Continual Pretraining via Adaptive Expansion and Dynamic Decoupled Tuning](https://arxiv.org/abs/2510.10071), Jinyang Zhang\*, Yue Fang\*, Hongxin Ding\*, **Weibin Liao\***, Muyang Ye, Xu Chu, Junfeng Zhao, Yasha Wang.
-- ``Arxiv 2025`` [Toward Better EHR Reasoning in LLMs: Reinforcement Learning with Expert Attention Guidance](https://arxiv.org/abs/2508.13579), Yue Fang, Yuxin Guo, Jiaran Gao, Hongxin Ding, Xinke Jiang, **Weibin Liao**, Yongxin Xu, Yinghao Zhu, Zhibang Yang, Liantao Ma.
 - ``Arxiv 2025`` [ProMed: Shapley Information Gain Guided Reinforcement Learning for Proactive Medical LLMs](https://arxiv.org/abs/2508.13514), Hongxin Ding, Baixiang Huang, Yue Fang, **Weibin Liao**, Xinke Jiang, Zheng Li, Junfeng Zhao, Yasha Wang.
 - ``Arxiv 2025`` [LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models](https://arxiv.org/abs/2504.02327), **Weibin Liao**, Xin Gao, Tianyu Jia, Rihong Qiu, Yifan Zhu, Yang Lin, Xinyu Ma, Junfeng Zhao, Yasha Wang.
 - ``Arxiv 2025`` [ClinicRealm: Re-evaluating Large Language Models with Conventional Machine Learning for Non-Generative Clinical Prediction Tasks](https://arxiv.org/abs/2407.18525), Yinghao Zhu\*, Junyi Gao\*, Zixiang Wang\*, **Weibin Liao\***, Xiaochen Zheng, Lifang Liang, Miguel O Bernabeu, Yasha Wang, Lequan Yu, Chengwei Pan, Ewen M Harrison, Liantao Ma.
+- ``AAAI 2026 Oral`` [Toward Better EHR Reasoning in LLMs: Reinforcement Learning with Expert Attention Guidance](https://arxiv.org/abs/2508.13579), Yue Fang, Yuxin Guo, Jiaran Gao, Hongxin Ding, Xinke Jiang, **Weibin Liao**, Yongxin Xu, Yinghao Zhu, Zhibang Yang, Liantao Ma.
 - ``EMNLP 2025`` [3DS: Medical Domain Adaptation of LLMs via Decomposed Difficulty-based Data Selection](https://aclanthology.org/2025.emnlp-main.983/), Hongxin Ding, Yue Fang, Runchuan Zhu, Xinke Jiang, Jinyang Zhang, Yongxin Xu, **Weibin Liao**, Xu Chu, Junfeng Zhao, Yasha Wang.
 - ``Electronics`` [HistoMoCo: Momentum Contrastive Learning Pre-Training on Unlabeled Histopathological Images for Oral Squamous Cell Carcinoma Detection](https://www.mdpi.com/2079-9292/14/7/1252), **Weibin Liao**, Yifan He, Bowen Jiang, Junfeng Zhao, Min Gao, Xiaoyun Zhang.
 
