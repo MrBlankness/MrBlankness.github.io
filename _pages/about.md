@@ -22,7 +22,7 @@ Hi! I am Weibin Liao (廖伟斌), a Ph.D. candidate at Peking University, advise
 I graduated from [College of Information and Electrical Engineering](https://ciee.cau.edu.cn/), China Agricultural University (中国农业大学信息与电气工程学院) with a bachelor degree, advised by [Prof. Zhenbo Li (李振波)](https://faculty.cau.edu.cn/lzb/list.htm) and from the [School of Computer Science & Technology](https://cs.bit.edu.cn/), Beijing Institute of Technology (北京理工大学计算机学院) with a master degree, advised by [Prof. Xuesong Li (李雪松)](https://cs.bit.edu.cn/szdw/jsml/bssds/cd86c91f836d4eb8b2ca82c8e3ca5f68.htm). 
 I also collaborate with [Prof. Liantao Ma (马连韬)](http://scholar.pku.edu.cn/malt) form Peking University, [Dr. Yinghao Zhu (朱英豪)](https://yhzhu99.github.io/) from The University of Hong Kong, [Dr. Junyi Gao (高峻逸)](https://aboutme.vixerunt.org/) from The University of Edinburgh, [Prof. Yifan Zhu (朱一凡)](https://zhuyf8899.github.io/) from Beijing University of Posts and Telecommunications, and [Dr. Haoyi Xiong (熊昊一)](https://sites.google.com/site/haoyixiongshomepage/) from Microsoft Research Asia closely.
 
-My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of Large Language Models. As the first author, I have published 10+ papers at the top international AI conferences and journals such as NeurIPS, ICLR, KDD, INFFUS, ACM TOIS, IEEE TAI. 
+My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *Large Language Models*. As the first author, I have published 10+ papers at the top international AI conferences and journals such as NeurIPS, ICLR, KDD, EMNLP, INFFUS, ACM TOIS, IEEE TAI. 
 
 
 # 🔥 News
