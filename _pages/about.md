@@ -27,10 +27,10 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *
 
 # 🔥 News
 - ```2025.11```: &nbsp;🎉🎉 My first-author paper, *HyFunc*, is accepted by KDD 2026.
-- ```2025.11```: &nbsp;🎉🎉 Our paper, *EAG-RL*, is accepted by AAAI 2026 <span style="color:red">Oral</span>.
+- ```2025.11```: &nbsp;🎉🎉 My co-author paper, *EAG-RL*, is accepted by AAAI 2026 <span style="color:red">Oral</span>.
 - ```2025.09```: &nbsp;🎉🎉 My first-author paper, *Magical*, is accepted by NeurIPS 2025.
 - ```2025.08```: &nbsp; My first-author paper, *CUPre*, is accepted by Information Fusion.
-- ```2025.08```: &nbsp; My co-first-author paper *PlanLearn* and Our *3DS* are accepted by EMNLP 2025.
+- ```2025.08```: &nbsp; My co-first-author paper, *PlanLearn*, and my co-author paper, *3DS*, are accepted by EMNLP 2025.
 - ```2025.01```: &nbsp; My first-author paper, *TPO*, is accepted by ICLR 2025.
 - ```2024.11```: &nbsp; My first-author paper, *PAI*, is accepted by KDD 2025.
 
