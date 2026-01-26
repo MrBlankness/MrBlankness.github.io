@@ -26,6 +26,7 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *
 
 
 # 🔥 News
+- ```2026.01```: &nbsp;🎉🎉 My first-author paper, *LearNAT*, and my co-first-author paper, *ADEPT*, are accepted by ICLR 2026.
 - ```2025.11```: &nbsp;🎉🎉 My first-author paper, *HyFunc*, is accepted by KDD 2026.
 - ```2025.11```: &nbsp;🎉🎉 My co-author paper, *EAG-RL*, is accepted by AAAI 2026 <span style="color:red">Oral</span>.
 - ```2025.09```: &nbsp;🎉🎉 My first-author paper, *Magical*, is accepted by NeurIPS 2025.
@@ -38,6 +39,8 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *
 # 📝 Publications 
 
 ### 2026
+- ``ICLR 2026`` [LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models](https://openreview.net/forum?id=q6kXd8Gpfj), **Weibin Liao**, Xin Gao, Tianyu Jia, Rihong Qiu, Yifan Zhu, Yang Lin, Xinyu Ma, Junfeng Zhao, Yasha Wang.
+- ``ICLR 2026`` [ADEPT: Continual Pretraining via Adaptive Expansion and Dynamic Decoupled Tuning](https://openreview.net/forum?id=vcWDDfA4Ev), Jinyang Zhang\*, Yue Fang\*, Hongxin Ding\*, **Weibin Liao\***, Muyang Ye, Xu Chu, Junfeng Zhao, Yasha Wang.
 - ``KDD 2026`` HyFunc: Accelerating LLM-based Function Calls for Agentic AI through Hybrid-Model Cascade and Dynamic Templating, **Weibin Liao**, Jian-Guang Lou, Haoyi Xiong.
 - ``AAAI 2026`` <span style="color:red">(Oral)</span> [Toward Better EHR Reasoning in LLMs: Reinforcement Learning with Expert Attention Guidance](https://arxiv.org/abs/2508.13579), Yue Fang\*, Yuxin Guo\*, Jiaran Gao\*, Hongxin Ding\*, Xinke Jiang, **Weibin Liao**, Yongxin Xu, Yinghao Zhu, Zhibang Yang, Liantao Ma.
 - ``INFFUS`` [CUPre: Cross-domain Unsupervised Pre-training for Few-Shot Cell Segmentation](https://www.sciencedirect.com/science/article/pii/S1566253525007134), **Weibin Liao**, Xuhong Li, Qingzhong Wang, Yanwu Xu, Zhaozheng Yin, Haoyi Xiong.
@@ -88,9 +91,7 @@ KDD 2025
 </div>
 
 - ``Arxiv 2025`` [Bridging Global Intent with Local Details: A Hierarchical Representation Approach for Semantic Validation in Text-to-SQL](https://arxiv.org/abs/2512.22744), Rihong Qiu\*, Zhibang Yang\*, Xinke Jiang\*, **Weibin Liao**, Xin Gao, Xu Chu, Junfeng Zhao, Yasha Wang.
-- ``Arxiv 2025`` [ADEPT: Continual Pretraining via Adaptive Expansion and Dynamic Decoupled Tuning](https://arxiv.org/abs/2510.10071), Jinyang Zhang\*, Yue Fang\*, Hongxin Ding\*, **Weibin Liao\***, Muyang Ye, Xu Chu, Junfeng Zhao, Yasha Wang.
 - ``Arxiv 2025`` [ProMed: Shapley Information Gain Guided Reinforcement Learning for Proactive Medical LLMs](https://arxiv.org/abs/2508.13514), Hongxin Ding\*, Baixiang Huang\*, Yue Fang\*, **Weibin Liao**, Xinke Jiang, Zheng Li, Junfeng Zhao, Yasha Wang.
-- ``Arxiv 2025`` [LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models](https://arxiv.org/abs/2504.02327), **Weibin Liao**, Xin Gao, Tianyu Jia, Rihong Qiu, Yifan Zhu, Yang Lin, Xinyu Ma, Junfeng Zhao, Yasha Wang.
 - ``Arxiv 2025`` [ClinicRealm: Re-evaluating Large Language Models with Conventional Machine Learning for Non-Generative Clinical Prediction Tasks](https://arxiv.org/abs/2407.18525), Yinghao Zhu\*, Junyi Gao\*, Zixiang Wang\*, **Weibin Liao\***, Xiaochen Zheng, Lifang Liang, Miguel O Bernabeu, Yasha Wang, Lequan Yu, Chengwei Pan, Ewen M Harrison, Liantao Ma.
 - ``EMNLP Findings 2025`` [Teaching LLMs to Plan, Not Just Solve: Plan Learning Boosts LLMs Generalization in Reasoning Tasks](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.453.pdf), Tianlong Wang\*, Junzhe Chen\*, **Weibin Liao\***, Xueting Han, Jing Bai.
 - ``EMNLP 2025`` [3DS: Medical Domain Adaptation of LLMs via Decomposed Difficulty-based Data Selection](https://aclanthology.org/2025.emnlp-main.983/), Hongxin Ding\*, Yue Fang\*, Runchuan Zhu\*, Xinke Jiang, Jinyang Zhang, Yongxin Xu, **Weibin Liao**, Xu Chu, Junfeng Zhao, Yasha Wang.
