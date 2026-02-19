@@ -41,7 +41,7 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *
 ### 2026
 - ``ICLR 2026`` [LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models](https://openreview.net/forum?id=q6kXd8Gpfj), **Weibin Liao**, Xin Gao, Tianyu Jia, Rihong Qiu, Yifan Zhu, Yang Lin, Xinyu Ma, Junfeng Zhao, Yasha Wang.
 - ``ICLR 2026`` [ADEPT: Continual Pretraining via Adaptive Expansion and Dynamic Decoupled Tuning](https://openreview.net/forum?id=vcWDDfA4Ev), Jinyang Zhang\*, Yue Fang\*, Hongxin Ding\*, **Weibin Liao\***, Muyang Ye, Xu Chu, Junfeng Zhao, Yasha Wang.
-- ``KDD 2026`` HyFunc: Accelerating LLM-based Function Calls for Agentic AI through Hybrid-Model Cascade and Dynamic Templating, **Weibin Liao**, Jian-Guang Lou, Haoyi Xiong.
+- ``KDD 2026`` [HyFunc: Accelerating LLM-based Function Calls for Agentic AI through Hybrid-Model Cascade and Dynamic Templating](https://arxiv.org/abs/2602.13665), **Weibin Liao**, Jian-Guang Lou, Haoyi Xiong.
 - ``AAAI 2026`` <span style="color:red">(Oral)</span> [Toward Better EHR Reasoning in LLMs: Reinforcement Learning with Expert Attention Guidance](https://arxiv.org/abs/2508.13579), Yue Fang\*, Yuxin Guo\*, Jiaran Gao\*, Hongxin Ding\*, Xinke Jiang, **Weibin Liao**, Yongxin Xu, Yinghao Zhu, Zhibang Yang, Liantao Ma.
 - ``INFFUS`` [CUPre: Cross-domain Unsupervised Pre-training for Few-Shot Cell Segmentation](https://www.sciencedirect.com/science/article/pii/S1566253525007134), **Weibin Liao**, Xuhong Li, Qingzhong Wang, Yanwu Xu, Zhaozheng Yin, Haoyi Xiong.
 
