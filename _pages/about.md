@@ -39,6 +39,7 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *
 # 📝 Publications 
 
 ### 2026
+- ``Arxiv 2026`` [APEX-SQL: Talking to the data via Agentic Exploration for Text-to-SQL](https://arxiv.org/abs/2602.16720), Bowen Cao\*, **Weibin Liao\***, Yushi Sun, Dong Fang, Haitao Li, Wai Lam.
 - ``ICLR 2026`` [LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models](https://openreview.net/forum?id=q6kXd8Gpfj), **Weibin Liao**, Xin Gao, Tianyu Jia, Rihong Qiu, Yifan Zhu, Yang Lin, Xinyu Ma, Junfeng Zhao, Yasha Wang.
 - ``ICLR 2026`` [ADEPT: Continual Pretraining via Adaptive Expansion and Dynamic Decoupled Tuning](https://openreview.net/forum?id=vcWDDfA4Ev), Jinyang Zhang\*, Yue Fang\*, Hongxin Ding\*, **Weibin Liao\***, Muyang Ye, Xu Chu, Junfeng Zhao, Yasha Wang.
 - ``KDD 2026`` [HyFunc: Accelerating LLM-based Function Calls for Agentic AI through Hybrid-Model Cascade and Dynamic Templating](https://arxiv.org/abs/2602.13665), **Weibin Liao**, Jian-Guang Lou, Haoyi Xiong.
