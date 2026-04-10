@@ -29,7 +29,7 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *
 - ```2026.04```: &nbsp;🎉🎉 My co-first-author paper, *ProMed*, is accepted by ACL 2026.
 - ```2026.03```: &nbsp;🎉🎉 My co-first-author paper, *ClinicRealm*, is accepted by npj Digital Medicine.
 - ```2026.01```: &nbsp;🎉🎉 My first-author paper, *LearNAT*, and my co-first-author paper, *ADEPT*, are accepted by ICLR 2026.
-- ```2025.11```: &nbsp;🎉🎉 My first-author paper, *HyFunc*, is accepted by KDD 2026.
+- ```2025.11```: &nbsp; My first-author paper, *HyFunc*, is accepted by KDD 2026.
 - ```2025.11```: &nbsp; My co-author paper, *EAG-RL*, is accepted by AAAI 2026 <span style="color:red">Oral</span>.
 - ```2025.09```: &nbsp; My first-author paper, *Magical*, is accepted by NeurIPS 2025.
 - ```2025.08```: &nbsp; My first-author paper, *CUPre*, is accepted by Information Fusion.
@@ -42,7 +42,7 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *
 
 ### 2026
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/paper_figures/LearNAT_ICLR26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/paper_figures/LearNAT_ICLR26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models](https://openreview.net/forum?id=q6kXd8Gpfj)
