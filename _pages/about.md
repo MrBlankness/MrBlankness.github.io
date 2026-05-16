@@ -22,13 +22,15 @@ Hi! I am Weibin Liao (廖伟斌), a Ph.D. candidate at Peking University, advise
 I graduated from [College of Information and Electrical Engineering](https://ciee.cau.edu.cn/), China Agricultural University (中国农业大学信息与电气工程学院) with a bachelor degree, advised by [Prof. Zhenbo Li (李振波)](https://faculty.cau.edu.cn/lzb/list.htm) and from the [School of Computer Science & Technology](https://cs.bit.edu.cn/), Beijing Institute of Technology (北京理工大学计算机学院) with a master degree, advised by [Prof. Xuesong Li (李雪松)](https://cs.bit.edu.cn/szdw/jsml/bssds/cd86c91f836d4eb8b2ca82c8e3ca5f68.htm). 
 I also collaborate with [Prof. Liantao Ma (马连韬)](http://scholar.pku.edu.cn/malt) form Peking University, [Dr. Yinghao Zhu (朱英豪)](https://yhzhu99.github.io/) from The University of Hong Kong, [Dr. Junyi Gao (高峻逸)](https://aboutme.vixerunt.org/) from The University of Edinburgh, [Prof. Yifan Zhu (朱一凡)](https://zhuyf8899.github.io/) from Beijing University of Posts and Telecommunications, and [Dr. Haoyi Xiong (熊昊一)](https://sites.google.com/site/haoyixiongshomepage/) from Microsoft Research Asia closely.
 
-My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *Large Language Models*. As the first author, I have published 10+ papers at the top international AI conferences and journals such as NeurIPS, ICLR, KDD, ACL, EMNLP, INFFUS, ACM TOIS, IEEE TAI. 
+My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *Large Language Models*. As the first author, I have published 10+ papers at the top international AI conferences and journals such as NeurIPS, ICLR, ICML, KDD, ACL, EMNLP, INFFUS, ACM TOIS, IEEE TAI. 
 
 
 # 🔥 News
+- ```2026.05```: &nbsp;🎉🎉 My co-first-author paper, *Apex-SQL*, is accepted by KDD 2026.
+- ```2026.05```: &nbsp;🎉🎉 My co-first-author & project leader paper, *DynaSteer*, is accepted by ICML 2026, and my co-first-author paper, $\ell_2$ *Norm*, is accepted by ICML 2026 <span style="color:red">Spotlight</span>.
 - ```2026.04```: &nbsp;🎉🎉 My co-first-author paper, *ProMed*, is accepted by ACL 2026.
-- ```2026.03```: &nbsp;🎉🎉 My co-first-author paper, *ClinicRealm*, is accepted by npj Digital Medicine.
-- ```2026.01```: &nbsp;🎉🎉 My first-author paper, *LearNAT*, and my co-first-author paper, *ADEPT*, are accepted by ICLR 2026.
+- ```2026.03```: &nbsp; My co-first-author paper, *ClinicRealm*, is accepted by npj Digital Medicine.
+- ```2026.01```: &nbsp; My first-author paper, *LearNAT*, and my co-first-author paper, *ADEPT*, are accepted by ICLR 2026.
 - ```2025.11```: &nbsp; My first-author paper, *HyFunc*, is accepted by KDD 2026.
 - ```2025.11```: &nbsp; My co-author paper, *EAG-RL*, is accepted by AAAI 2026 <span style="color:red">Oral</span>.
 - ```2025.09```: &nbsp; My first-author paper, *Magical*, is accepted by NeurIPS 2025.
@@ -56,7 +58,9 @@ ICLR 2026
 </div>
 </div>
 
-- ``Arxiv 2026`` [APEX-SQL: Talking to the data via Agentic Exploration for Text-to-SQL](https://arxiv.org/abs/2602.16720), Bowen Cao\*, **Weibin Liao\***, Yushi Sun, Dong Fang, Haitao Li, Wai Lam.
+- ``KDD 2026`` [APEX-SQL: Talking to the data via Agentic Exploration for Text-to-SQL](https://arxiv.org/abs/2602.16720), Bowen Cao\*, **Weibin Liao\***, Yushi Sun, Dong Fang, Haitao Li, Wai Lam.
+- ``ICML 2026 `` <span style="color:red">(Spotlight)</span> The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models, Jinyang Zhang*, Hongxin Ding*, Yue Fang*, **Weibin Liao\***, Muyang Ye, Junfeng Zhao, Yasha Wang.
+- ``ICML 2026`` Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories, Tianlong Wang*, Yuhang Wang*, **Weibin Liao\***, Xin Gao, Xinyu Ma, Yang Lin, Yasha Wang, Liantao Ma.
 - ``ACL 2026`` [ProMed: Shapley Information Gain Guided Reinforcement Learning for Proactive Medical LLMs](https://arxiv.org/abs/2508.13514), Hongxin Ding\*, Baixiang Huang\*, Yue Fang\*, **Weibin Liao\***, Xinke Jiang, Zheng Li, Junfeng Zhao, Yasha Wang.
 - ``npj Digital Medicine`` [ClinicRealm: Re-evaluating Large Language Models with Conventional Machine Learning for Non-Generative Clinical Prediction Tasks](https://arxiv.org/abs/2407.18525), Yinghao Zhu\*, Junyi Gao\*, Zixiang Wang\*, **Weibin Liao\***, Xiaochen Zheng, Lifang Liang, Miguel O Bernabeu, Yasha Wang, Lequan Yu, Chengwei Pan, Ewen M Harrison, Liantao Ma.
 - ``ICLR 2026`` [ADEPT: Continual Pretraining via Adaptive Expansion and Dynamic Decoupled Tuning](https://openreview.net/forum?id=vcWDDfA4Ev), Jinyang Zhang\*, Yue Fang\*, Hongxin Ding\*, **Weibin Liao\***, Muyang Ye, Xu Chu, Junfeng Zhao, Yasha Wang.
