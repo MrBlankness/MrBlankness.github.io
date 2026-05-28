@@ -59,8 +59,8 @@ ICLR 2026
 </div>
 
 - ``KDD 2026`` [APEX-SQL: Talking to the data via Agentic Exploration for Text-to-SQL](https://arxiv.org/abs/2602.16720), Bowen Cao\*, **Weibin Liao\***, Yushi Sun, Dong Fang, Haitao Li, Wai Lam.
-- ``ICML 2026 `` <span style="color:red">(Spotlight)</span> The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models, Jinyang Zhang*, Hongxin Ding*, Yue Fang*, **Weibin Liao\***, Muyang Ye, Junfeng Zhao, Yasha Wang.
-- ``ICML 2026`` Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories, Tianlong Wang*, Yuhang Wang*, **Weibin Liao\***, Xin Gao, Xinyu Ma, Yang Lin, Yasha Wang, Liantao Ma.
+- ``ICML 2026 `` <span style="color:red">(Spotlight)</span> The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models, Jinyang Zhang\*, Hongxin Ding\*, Yue Fang\*, **Weibin Liao\***, Muyang Ye, Junfeng Zhao, Yasha Wang.
+- ``ICML 2026`` Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories, Tianlong Wang\*, Yuhang Wang\*, **Weibin Liao\***, Xin Gao, Xinyu Ma, Yang Lin, Yasha Wang, Liantao Ma.
 - ``ACL 2026`` [ProMed: Shapley Information Gain Guided Reinforcement Learning for Proactive Medical LLMs](https://arxiv.org/abs/2508.13514), Hongxin Ding\*, Baixiang Huang\*, Yue Fang\*, **Weibin Liao\***, Xinke Jiang, Zheng Li, Junfeng Zhao, Yasha Wang.
 - ``npj Digital Medicine`` [ClinicRealm: Re-evaluating Large Language Models with Conventional Machine Learning for Non-Generative Clinical Prediction Tasks](https://arxiv.org/abs/2407.18525), Yinghao Zhu\*, Junyi Gao\*, Zixiang Wang\*, **Weibin Liao\***, Xiaochen Zheng, Lifang Liang, Miguel O Bernabeu, Yasha Wang, Lequan Yu, Chengwei Pan, Ewen M Harrison, Liantao Ma.
 - ``ICLR 2026`` [ADEPT: Continual Pretraining via Adaptive Expansion and Dynamic Decoupled Tuning](https://openreview.net/forum?id=vcWDDfA4Ev), Jinyang Zhang\*, Yue Fang\*, Hongxin Ding\*, **Weibin Liao\***, Muyang Ye, Xu Chu, Junfeng Zhao, Yasha Wang.
