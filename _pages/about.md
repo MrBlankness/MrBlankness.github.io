@@ -142,6 +142,7 @@ KDD 2025
 - **Reviewer** of IEEE TKDE, IEEE TDSC, ACM TOIS, INFFUS
 
 # 🏆 Honors and Awards
+- ```2026``` Principal's Scholarship @ Peking University
 - ```2025``` National Scholarship @ Peking University
 - ```2025``` Merit Student Award @ Peking University
 - ```2021 & 2022``` First-Class Scholarship for Outstanding Students @ Beijing Institute of Technology
