@@ -26,7 +26,7 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *
 
 
 # 🔥 News
-- ```2026.05```: &nbsp;🎉🎉 My first-author paper, *HyFunc*, is selected for an <span style="color:red">Oral</span> presentation at KDD 2026.
+- ```2026.06```: &nbsp;🎉🎉 My first-author paper, *HyFunc*, is selected for an <span style="color:red">Oral</span> presentation at KDD 2026.
 - ```2026.05```: &nbsp;🎉🎉 My co-first-author paper, *Apex-SQL*, is accepted by KDD 2026.
 - ```2026.05```: &nbsp;🎉🎉 My co-first-author & project leader paper, *DynaSteer*, is accepted by ICML 2026, and my co-first-author paper, $\ell_2$ *Norm*, is accepted by ICML 2026 <span style="color:red">Spotlight</span>.
 - ```2026.04```: &nbsp;🎉🎉 My co-first-author paper, *ProMed*, is accepted by ACL 2026.
