@@ -26,6 +26,7 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *
 
 
 # 🔥 News
+- ```2026.05```: &nbsp;🎉🎉 My first-author paper, *HyFunc*, is selected for an <span style="color:red">Oral</span> presentation at KDD 2026.
 - ```2026.05```: &nbsp;🎉🎉 My co-first-author paper, *Apex-SQL*, is accepted by KDD 2026.
 - ```2026.05```: &nbsp;🎉🎉 My co-first-author & project leader paper, *DynaSteer*, is accepted by ICML 2026, and my co-first-author paper, $\ell_2$ *Norm*, is accepted by ICML 2026 <span style="color:red">Spotlight</span>.
 - ```2026.04```: &nbsp;🎉🎉 My co-first-author paper, *ProMed*, is accepted by ACL 2026.
@@ -44,6 +45,20 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *
 
 ### 2026
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/paper_figures/DynaSteer_ICML26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories](http://arxiv.org/abs/2606.28589)
+
+ICML 2026
+
+Tianlong Wang\*, Yuhang Wang\*, **Weibin Liao\***, Xin Gao, Xinyu Ma, Yang Lin, Yasha Wang, Liantao Ma.
+
+[**Code Repository Here**](https://github.com/tianlwang/DynaSteer) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/paper_figures/LearNAT_ICLR26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,13 +73,13 @@ ICLR 2026
 </div>
 </div>
 
+- ``Arxiv 2026`` [Database Context Compression for Text-to-SQL on Real-World Large Databases](http://arxiv.org/abs/2606.28601), Jingwen Liu\*, **Weibin Liao\***, Xin Gao, Junfeng Zhao, Yasha Wang.
 - ``KDD 2026`` [APEX-SQL: Talking to the data via Agentic Exploration for Text-to-SQL](https://arxiv.org/abs/2602.16720), Bowen Cao\*, **Weibin Liao\***, Yushi Sun, Dong Fang, Haitao Li, Wai Lam.
-- ``ICML 2026 `` <span style="color:red">(Spotlight)</span> The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models, Jinyang Zhang\*, Hongxin Ding\*, Yue Fang\*, **Weibin Liao\***, Muyang Ye, Junfeng Zhao, Yasha Wang.
-- ``ICML 2026`` Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories, Tianlong Wang\*, Yuhang Wang\*, **Weibin Liao\***, Xin Gao, Xinyu Ma, Yang Lin, Yasha Wang, Liantao Ma.
+- ``ICML 2026 `` <span style="color:red">(Spotlight)</span> [The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models](https://arxiv.org/abs/2606.06188), Jinyang Zhang\*, Hongxin Ding\*, Yue Fang\*, **Weibin Liao\***, Muyang Ye, Junfeng Zhao, Yasha Wang.
 - ``ACL 2026`` [ProMed: Shapley Information Gain Guided Reinforcement Learning for Proactive Medical LLMs](https://arxiv.org/abs/2508.13514), Hongxin Ding\*, Baixiang Huang\*, Yue Fang\*, **Weibin Liao\***, Xinke Jiang, Zheng Li, Junfeng Zhao, Yasha Wang.
 - ``npj Digital Medicine`` [ClinicRealm: Re-evaluating Large Language Models with Conventional Machine Learning for Non-Generative Clinical Prediction Tasks](https://arxiv.org/abs/2407.18525), Yinghao Zhu\*, Junyi Gao\*, Zixiang Wang\*, **Weibin Liao\***, Xiaochen Zheng, Lifang Liang, Miguel O Bernabeu, Yasha Wang, Lequan Yu, Chengwei Pan, Ewen M Harrison, Liantao Ma.
 - ``ICLR 2026`` [ADEPT: Continual Pretraining via Adaptive Expansion and Dynamic Decoupled Tuning](https://openreview.net/forum?id=vcWDDfA4Ev), Jinyang Zhang\*, Yue Fang\*, Hongxin Ding\*, **Weibin Liao\***, Muyang Ye, Xu Chu, Junfeng Zhao, Yasha Wang.
-- ``KDD 2026`` [HyFunc: Accelerating LLM-based Function Calls for Agentic AI through Hybrid-Model Cascade and Dynamic Templating](https://arxiv.org/abs/2602.13665), **Weibin Liao**, Jian-Guang Lou, Haoyi Xiong.
+- ``KDD 2026`` <span style="color:red">(Oral)</span> [HyFunc: Accelerating LLM-based Function Calls for Agentic AI through Hybrid-Model Cascade and Dynamic Templating](https://arxiv.org/abs/2602.13665), **Weibin Liao**, Jian-Guang Lou, Haoyi Xiong.
 - ``AAAI 2026`` <span style="color:red">(Oral)</span> [Toward Better EHR Reasoning in LLMs: Reinforcement Learning with Expert Attention Guidance](https://arxiv.org/abs/2508.13579), Yue Fang\*, Yuxin Guo\*, Jiaran Gao\*, Hongxin Ding\*, Xinke Jiang, **Weibin Liao**, Yongxin Xu, Yinghao Zhu, Zhibang Yang, Liantao Ma.
 - ``INFFUS`` [CUPre: Cross-domain Unsupervised Pre-training for Few-Shot Cell Segmentation](https://www.sciencedirect.com/science/article/pii/S1566253525007134), **Weibin Liao**, Xuhong Li, Qingzhong Wang, Yanwu Xu, Zhaozheng Yin, Haoyi Xiong.
 
@@ -138,7 +153,7 @@ KDD 2025
 - ``MICCAI-CADA 2020`` [3D Attention U-net with Pretraining: A Solution to CADA-Aneurysm Segmentation Challenge](https://link.springer.com/chapter/10.1007/978-3-030-72862-5_6), Ziyu Su, Yizhuan Jia, **Weibin Liao**, Yi Lv, Jiaqi Dou, Zhongwei Sun, Xuesong Li.
 
 # 🍳 Program Committee & Reviewer Service
-- **Program Committee Member** of ICLR25-26, NeurIPS25, ARR25, AAAI26, ICML26, KDD26
+- **Program Committee Member** of ICLR25-26, NeurIPS25-26, ARR25-26, AAAI26-27, ICML26, KDD26
 - **Reviewer** of IEEE TKDE, IEEE TDSC, ACM TOIS, INFFUS
 
 # 🏆 Honors and Awards
