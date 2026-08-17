@@ -45,6 +45,20 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *
 
 ### 2026
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026 Oral</div><img src='images/paper_figures/HyFunc_KDD26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HyFunc: Accelerating LLM-based Function Calls for Agentic AI through Hybrid-Model Cascade and Dynamic Templating](https://arxiv.org/abs/2602.13665)
+
+KDD 2026 <span style="color:red">Oral</span>
+
+**Weibin Liao**, Jian-Guang Lou, Haoyi Xiong.
+
+[**Code Repository Here**](https://github.com/MrBlankness/HyFunc) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/paper_figures/DynaSteer_ICML26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -79,7 +93,6 @@ ICLR 2026
 - ``ACL 2026`` [ProMed: Shapley Information Gain Guided Reinforcement Learning for Proactive Medical LLMs](https://arxiv.org/abs/2508.13514), Hongxin Ding\*, Baixiang Huang\*, Yue Fang\*, **Weibin Liao\***, Xinke Jiang, Zheng Li, Junfeng Zhao, Yasha Wang.
 - ``npj Digital Medicine`` [ClinicRealm: Re-evaluating Large Language Models with Conventional Machine Learning for Non-Generative Clinical Prediction Tasks](https://arxiv.org/abs/2407.18525), Yinghao Zhu\*, Junyi Gao\*, Zixiang Wang\*, **Weibin Liao\***, Xiaochen Zheng, Lifang Liang, Miguel O Bernabeu, Yasha Wang, Lequan Yu, Chengwei Pan, Ewen M Harrison, Liantao Ma.
 - ``ICLR 2026`` [ADEPT: Continual Pretraining via Adaptive Expansion and Dynamic Decoupled Tuning](https://openreview.net/forum?id=vcWDDfA4Ev), Jinyang Zhang\*, Yue Fang\*, Hongxin Ding\*, **Weibin Liao\***, Muyang Ye, Xu Chu, Junfeng Zhao, Yasha Wang.
-- ``KDD 2026`` <span style="color:red">(Oral)</span> [HyFunc: Accelerating LLM-based Function Calls for Agentic AI through Hybrid-Model Cascade and Dynamic Templating](https://arxiv.org/abs/2602.13665), **Weibin Liao**, Jian-Guang Lou, Haoyi Xiong.
 - ``AAAI 2026`` <span style="color:red">(Oral)</span> [Toward Better EHR Reasoning in LLMs: Reinforcement Learning with Expert Attention Guidance](https://arxiv.org/abs/2508.13579), Yue Fang\*, Yuxin Guo\*, Jiaran Gao\*, Hongxin Ding\*, Xinke Jiang, **Weibin Liao**, Yongxin Xu, Yinghao Zhu, Zhibang Yang, Liantao Ma.
 - ``INFFUS`` [CUPre: Cross-domain Unsupervised Pre-training for Few-Shot Cell Segmentation](https://www.sciencedirect.com/science/article/pii/S1566253525007134), **Weibin Liao**, Xuhong Li, Qingzhong Wang, Yanwu Xu, Zhaozheng Yin, Haoyi Xiong.
 
