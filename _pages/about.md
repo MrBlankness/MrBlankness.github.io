@@ -90,7 +90,7 @@ ICLR 2026
 
 - ``Arxiv 2026`` [Database Context Compression for Text-to-SQL on Real-World Large Databases](http://arxiv.org/abs/2606.28601), Jingwen Liu\*, **Weibin Liao\***, Xin Gao, Junfeng Zhao, Yasha Wang.
 - ``EMNLP 2026`` SchemaToken: Tokenizing Database Schemas for Efficient and Robust Text-to-SQL Linking, **Weibin Liao**, Jingwen Liu, Rihong Qiu, Xin Gao, Xinyu Ma, Hongxin Ding, Yue Fang, Yifan Zhu, Yuheng Huang, Junfeng Zhao, Yasha Wang.
-- ``EMNLP 2026`` The Imitation Game: When LLMs Learn to Reason Like Programs via Code-Centric Reasoning Data Synthesis, Jinyang Zhang\*, **Weibin Liao\***, Keqin Bao, Sihang Li, Shaobo Wang, Muyang Ye, Hongxin Ding, Yue Fang, Tianyi Tang, Fei Huang, Kexin Yang, Xingzhang Ren, Dayiheng Liu.
+- ``EMNLP 2026`` The Imitation Game: When LLMs Learn to Reason Like Programs via Code-Centric Reasoning Data Synthesis, Jinyang Zhang, **Weibin Liao**, Keqin Bao, Sihang Li, Shaobo Wang, Muyang Ye, Hongxin Ding, Yue Fang, Tianyi Tang, Fei Huang, Kexin Yang, Xingzhang Ren, Dayiheng Liu.
 - ``EMNLP 2026 Findings`` EvoRubrics: Dynamic Rubrics as Rewards via Adversarial Co-Evolution for LLM Reinforcement Learning, Hongxin Ding, Baixiang Huang, Yue Fang, **Weibin Liao**, Zheng Li, Jinyang Zhang, Zhijing Wu, Junfeng Zhao, Yasha Wang.
 - ``KDD 2026`` [APEX-SQL: Talking to the data via Agentic Exploration for Text-to-SQL](https://arxiv.org/abs/2602.16720), Bowen Cao\*, **Weibin Liao\***, Yushi Sun, Dong Fang, Haitao Li, Wai Lam.
 - ``ICML 2026 `` <span style="color:red">(Spotlight)</span> [The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models](https://arxiv.org/abs/2606.06188), Jinyang Zhang\*, Hongxin Ding\*, Yue Fang\*, **Weibin Liao\***, Muyang Ye, Junfeng Zhao, Yasha Wang.
