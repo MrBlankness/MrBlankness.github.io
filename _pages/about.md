@@ -26,11 +26,13 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *
 
 
 # 🔥 News
+- ```2026.09```: &nbsp; Our work, *MIMIC*, is selected for an <span style="color:red">Oral</span> presentation at EMNLP 2026.
+- ```2026.09```: &nbsp; Our work, *DiagSQL*, is accepted by NeurIPS 2026.
 - ```2026.08```: &nbsp;🎉🎉 Our works, *SchemaToken* and *MIMIC* are accepted by EMNLP 2026 main, *EvoRubrics* is accepted by EMNLP 2026 findings.
-- ```2026.06```: &nbsp;🎉🎉 Our work, *HyFunc*, is selected for an <span style="color:red">Oral</span> presentation at KDD 2026.
-- ```2026.05```: &nbsp;🎉🎉 Our work, *Apex-SQL*, is accepted by KDD 2026.
-- ```2026.05```: &nbsp;🎉🎉 Our works, *DynaSteer* is accepted by ICML 2026, $\ell_2$ *Norm* is accepted by ICML 2026 <span style="color:red">Spotlight</span>.
-- ```2026.04```: &nbsp;🎉🎉 Our work, *ProMed*, is accepted by ACL 2026.
+- ```2026.06```: &nbsp; Our work, *HyFunc*, is selected for an <span style="color:red">Oral</span> presentation at KDD 2026.
+- ```2026.05```: &nbsp; Our work, *Apex-SQL*, is accepted by KDD 2026.
+- ```2026.05```: &nbsp; Our works, *DynaSteer* is accepted by ICML 2026, $\ell_2$ *Norm* is accepted by ICML 2026 <span style="color:red">Spotlight</span>.
+- ```2026.04```: &nbsp; Our work, *ProMed*, is accepted by ACL 2026.
 - ```2026.03```: &nbsp; Our work, *ClinicRealm*, is accepted by npj Digital Medicine.
 - ```2026.01```: &nbsp; Our works, *LearNAT* and *ADEPT*, are accepted by ICLR 2026.
 - ```2025.11```: &nbsp; Our work, *HyFunc*, is accepted by KDD 2026.
@@ -89,6 +91,7 @@ ICLR 2026
 </div>
 
 - ``Arxiv 2026`` [Database Context Compression for Text-to-SQL on Real-World Large Databases](http://arxiv.org/abs/2606.28601), Jingwen Liu\*, **Weibin Liao\***, Xin Gao, Junfeng Zhao, Yasha Wang.
+- ``NeurIPS 2026`` DiagSQL: A Diagnostic Validator for Text-to-SQL with Reward Allocation and Co-occurrence Shaping, **Weibin Liao**, Bowen Cao, Dong Fang, Wai Lam.
 - ``EMNLP 2026`` SchemaToken: Tokenizing Database Schemas for Efficient and Robust Text-to-SQL Linking, **Weibin Liao**, Jingwen Liu, Rihong Qiu, Xin Gao, Xinyu Ma, Hongxin Ding, Yue Fang, Yifan Zhu, Yuheng Huang, Junfeng Zhao, Yasha Wang.
 - ``EMNLP 2026`` The Imitation Game: When LLMs Learn to Reason Like Programs via Code-Centric Reasoning Data Synthesis, Jinyang Zhang, **Weibin Liao**, Keqin Bao, Sihang Li, Shaobo Wang, Muyang Ye, Hongxin Ding, Yue Fang, Tianyi Tang, Fei Huang, Kexin Yang, Xingzhang Ren, Dayiheng Liu.
 - ``EMNLP 2026 Findings`` EvoRubrics: Dynamic Rubrics as Rewards via Adversarial Co-Evolution for LLM Reinforcement Learning, Hongxin Ding, Baixiang Huang, Yue Fang, **Weibin Liao**, Zheng Li, Jinyang Zhang, Zhijing Wu, Junfeng Zhao, Yasha Wang.
