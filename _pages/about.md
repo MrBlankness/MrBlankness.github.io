@@ -26,8 +26,8 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *
 
 
 # 🔥 News
-- ```2026.09```: &nbsp; Our work, *MIMIC*, is selected for an <span style="color:red">Oral</span> presentation at EMNLP 2026.
-- ```2026.09```: &nbsp; Our work, *DiagSQL*, is accepted by NeurIPS 2026.
+- ```2026.09```: &nbsp;🎉🎉 Our work, *MIMIC*, is selected for an <span style="color:red">Oral</span> presentation at EMNLP 2026.
+- ```2026.09```: &nbsp;🎉🎉 Our work, *DiagSQL*, is accepted by NeurIPS 2026.
 - ```2026.08```: &nbsp;🎉🎉 Our works, *SchemaToken* and *MIMIC* are accepted by EMNLP 2026 main, *EvoRubrics* is accepted by EMNLP 2026 findings.
 - ```2026.06```: &nbsp; Our work, *HyFunc*, is selected for an <span style="color:red">Oral</span> presentation at KDD 2026.
 - ```2026.05```: &nbsp; Our work, *Apex-SQL*, is accepted by KDD 2026.
