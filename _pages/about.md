@@ -48,6 +48,21 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *
 
 ### 2026
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/paper_figures/SchemaToken_EMNLP26_v1.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/paper_figures/SchemaToken_EMNLP26_v2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SchemaToken: Tokenizing Database Schemas for Efficient and Robust Text-to-SQL Linking](https://aclanthology.org/2026.emnlp-main.2019/)
+
+EMNLP 2026
+
+**Weibin Liao**, Jingwen Liu, Rihong Qiu, Xin Gao, Xinyu Ma, Hongxin Ding, Yue Fang, Yifan Zhu, Yuheng Huang, Junfeng Zhao, Yasha Wang.
+
+[**Code Repository Here**](https://github.com/MrBlankness/SchemaToken) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026 Oral</div><img src='images/paper_figures/HyFunc_KDD26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -92,9 +107,8 @@ ICLR 2026
 
 - ``Arxiv 2026`` [Database Context Compression for Text-to-SQL on Real-World Large Databases](http://arxiv.org/abs/2606.28601), Jingwen Liu\*, **Weibin Liao\***, Xin Gao, Junfeng Zhao, Yasha Wang.
 - ``NeurIPS 2026`` DiagSQL: A Diagnostic Validator for Text-to-SQL with Reward Allocation and Co-occurrence Shaping, **Weibin Liao**, Bowen Cao, Dong Fang, Wai Lam.
-- ``EMNLP 2026`` SchemaToken: Tokenizing Database Schemas for Efficient and Robust Text-to-SQL Linking, **Weibin Liao**, Jingwen Liu, Rihong Qiu, Xin Gao, Xinyu Ma, Hongxin Ding, Yue Fang, Yifan Zhu, Yuheng Huang, Junfeng Zhao, Yasha Wang.
-- ``EMNLP 2026`` <span style="color:red">(Oral)</span> [The Imitation Game: When LLMs Learn to Reason Like Programs via Code-Centric Reasoning Data Synthesis](https://arxiv.org/abs/2609.16076), Jinyang Zhang, **Weibin Liao**, Keqin Bao, Sihang Li, Shaobo Wang, Muyang Ye, Hongxin Ding, Yue Fang, Tianyi Tang, Fei Huang, Kexin Yang, Xingzhang Ren, Dayiheng Liu.
-- ``EMNLP 2026 Findings`` EvoRubrics: Dynamic Rubrics as Rewards via Adversarial Co-Evolution for LLM Reinforcement Learning, Hongxin Ding, Baixiang Huang, Yue Fang, **Weibin Liao**, Zheng Li, Jinyang Zhang, Zhijing Wu, Junfeng Zhao, Yasha Wang.
+- ``EMNLP 2026`` <span style="color:red">(Oral)</span> [The Imitation Game: When LLMs Learn to Reason Like Programs via Code-Centric Reasoning Data Synthesis](https://aclanthology.org/2026.emnlp-main.1561/), Jinyang Zhang, **Weibin Liao**, Keqin Bao, Sihang Li, Shaobo Wang, Muyang Ye, Hongxin Ding, Yue Fang, Tianyi Tang, Fei Huang, Kexin Yang, Xingzhang Ren, Dayiheng Liu.
+- ``EMNLP 2026 Findings`` [EvoRubrics: Dynamic Rubrics as Rewards via Adversarial Co-Evolution for LLM Reinforcement Learning](https://aclanthology.org/2026.findings-emnlp.2273/), Hongxin Ding, Baixiang Huang, Yue Fang, **Weibin Liao**, Zheng Li, Jinyang Zhang, Zhijing Wu, Junfeng Zhao, Yasha Wang.
 - ``KDD 2026`` [APEX-SQL: Talking to the data via Agentic Exploration for Text-to-SQL](https://arxiv.org/abs/2602.16720), Bowen Cao\*, **Weibin Liao\***, Yushi Sun, Dong Fang, Haitao Li, Wai Lam.
 - ``ICML 2026 `` <span style="color:red">(Spotlight)</span> [The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models](https://arxiv.org/abs/2606.06188), Jinyang Zhang\*, Hongxin Ding\*, Yue Fang\*, **Weibin Liao\***, Muyang Ye, Junfeng Zhao, Yasha Wang.
 - ``ACL 2026`` [ProMed: Shapley Information Gain Guided Reinforcement Learning for Proactive Medical LLMs](https://arxiv.org/abs/2508.13514), Hongxin Ding\*, Baixiang Huang\*, Yue Fang\*, **Weibin Liao\***, Xinke Jiang, Zheng Li, Junfeng Zhao, Yasha Wang.
