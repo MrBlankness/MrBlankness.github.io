@@ -56,11 +56,11 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *
     <div style="display:flex; gap:10px;">
       <img src='images/paper_figures/SchemaToken_EMNLP26_v1.png'
            alt="PosterV1"
-           style="width:calc(50% - 5px); height:200px; object-fit:contain;">
+           style="width:calc(60% - 5px); height:300px; object-fit:contain;">
 
       <img src='images/paper_figures/SchemaToken_EMNLP26_v2.png'
            alt="PosterV2"
-           style="width:calc(50% - 5px); height:200px; object-fit:contain;">
+           style="width:calc(40% - 5px); height:300px; object-fit:contain;">
     </div>
   </div>
 </div>
