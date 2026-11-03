@@ -48,9 +48,23 @@ My research interest includes **Reasoning**, **NL2SQL**, and **HealthCare** of *
 
 ### 2026
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/paper_figures/SchemaToken_EMNLP26_v1.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/paper_figures/SchemaToken_EMNLP26_v2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+    <div class="badge">EMNLP 2026</div>
+
+    <div style="display:flex; gap:10px;">
+      <img src='images/paper_figures/SchemaToken_EMNLP26_v1.png'
+           alt="PosterV1"
+           style="width:calc(50% - 5px); height:200px; object-fit:contain;">
+
+      <img src='images/paper_figures/SchemaToken_EMNLP26_v2.png'
+           alt="PosterV2"
+           style="width:calc(50% - 5px); height:200px; object-fit:contain;">
+    </div>
+  </div>
+</div>
+  <div class='paper-box-text' markdown="1">
 
 [SchemaToken: Tokenizing Database Schemas for Efficient and Robust Text-to-SQL Linking](https://aclanthology.org/2026.emnlp-main.2019/)
 
